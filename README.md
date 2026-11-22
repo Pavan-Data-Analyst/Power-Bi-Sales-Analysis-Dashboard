@@ -1,12 +1,12 @@
-# Power BI Sales Analysis Dashboard
+# Sales Analysis Dashboard | Power BI
 
 ## Project Overview
 
-This project presents an interactive Sales Analysis Dashboard built using Microsoft Power BI. It helps explore sales performance, profitability, regional trends, product categories, customer segments, cities, and salesperson performance.
+This project presents an interactive Sales Analysis Dashboard built using Microsoft Power BI. It helps explore sales performance, profitability, regional trends, product categories, customer segments, and salesperson performance.
 
 ## Dashboard Preview
 
-![Sales Dashboard Preview](Sales_Dashboard_Preview.png)
+![Sales Dashboard Preview](Power_BI_Sales_Dashboard.png)
 
 ## Tools Used
 
@@ -32,13 +32,11 @@ This project presents an interactive Sales Analysis Dashboard built using Micros
 * Sales by Region
 * Sales by Category
 * Sales by Segment
-* Top 5 Cities by Sales
 * Top 5 Salespersons by Sales
 
 ### Profit Analysis
 
-* Top 5 Sub-Categories by Profit
-* Profit by Region
+* Monthly Profit trend 
 
 ### Interactive Features
 
@@ -55,10 +53,9 @@ This dashboard helps answer questions such as:
 1. Which region generates the highest sales?
 2. Which product category contributes the most sales?
 3. Which segment performs best in sales?
-4. Which cities generate the highest sales?
-5. Which salespersons have the highest sales?
-6. Which product sub-categories generate the most profit?
-7. How do sales and profit change over time?
+4. Which salespersons have the highest sales?
+5. Which product sub-categories generate the most profit?
+6. How do sales and profit change over time?
 
 ## Key Findings
 
@@ -72,7 +69,7 @@ These findings should be checked against the final dashboard values before publi
 ## Project Files
 
 * `Sales_Analysis_Dashboard.pbix` — Power BI report file.
-* `Sales_Dashboard_Preview.png` — Dashboard preview image.
+* `Power_BI_Sales_Dashboard.png` — Dashboard preview image.
 
 ## Dataset
 
